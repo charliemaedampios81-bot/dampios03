@@ -1,0 +1,6 @@
+{
+  "name": "Classic Tic Tac Toe",
+  "description": "A features-packed retro-modern Tic Tac Toe game with user management, statistics, AI modes with multiple difficulties (Easy, Medium, Hard, Expert Minimax), XP levelling, and a real-time leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
